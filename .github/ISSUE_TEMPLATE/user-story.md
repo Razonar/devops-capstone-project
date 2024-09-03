@@ -1,6 +1,6 @@
 ---
 name: Razonar's Custom issue template
-about: User template for user storys
+about: User template for planning user story
 title: ''
 labels: ''
 assignees: ''
